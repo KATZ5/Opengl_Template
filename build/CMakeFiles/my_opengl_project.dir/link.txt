@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_opengl_project.dir/main.cpp.o CMakeFiles/my_opengl_project.dir/glad.c.o CMakeFiles/my_opengl_project.dir/game.cpp.o CMakeFiles/my_opengl_project.dir/resourceManager.cpp.o CMakeFiles/my_opengl_project.dir/shader.cpp.o CMakeFiles/my_opengl_project.dir/stb_image.cpp.o CMakeFiles/my_opengl_project.dir/texture.cpp.o -o my_opengl_project  -lglfw
